@@ -1,8 +1,9 @@
 {
-    "name": "srigking/laravel5-json-api",
+    "name": "nilportugues/laravel5-json-api",
     "type": "library",
     "description": "Laravel 5 JSON API Transformer Package",
     "keywords": ["laravel", "laravel5", "lumen", "json", "api", "jsonapi", "serializer", "transformer", "psr7", "response"],
+    "homepage": "http://nilportugues.com",
     "license": "MIT",
     "authors": [
         {
